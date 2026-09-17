@@ -2,13 +2,12 @@
 
 Gerenciador de tarefas em Java desenvolvido para praticar **Programação Orientada a Objetos (POO)** e organização de código em camadas.
 
-## 🚀 Sobre o projeto
+## Sobre o projeto
 
 O TaskFlow funciona no terminal e permite criar, listar, concluir e remover tarefas, além de acompanhar um resumo do andamento.
-
 Este projeto faz parte do meu portfólio de Sistemas de Informação e foi criado para aplicar conceitos fundamentais de Java em uma solução funcional.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - Criar tarefas
 - Listar tarefas
@@ -19,7 +18,7 @@ Este projeto faz parte do meu portfólio de Sistemas de Informação e foi criad
 - Visualizar resumo de pendentes e concluídas
 - Validação básica de entrada
 
-## 🛠️ Tecnologias e conceitos
+## Tecnologias e conceitos
 
 - Java
 - Programação Orientada a Objetos
@@ -31,7 +30,7 @@ Este projeto faz parte do meu portfólio de Sistemas de Informação e foi criad
 - LocalDate
 - Organização em pacotes
 
-## 📁 Estrutura
+## Estrutura
 
 ```text
 src/main/java/com/nicolascosta/taskflow/
@@ -43,13 +42,13 @@ src/main/java/com/nicolascosta/taskflow/
     └── GerenciadorTarefas.java
 ```
 
-## ▶️ Como executar
+## Como executar
 
 Requer Java 17 ou superior.
 
 Compile os arquivos Java e execute a classe `Main`.
 
-## 🔭 Próximas evoluções
+## Próximas evoluções
 
 - Persistência em banco de dados
 - API REST com Spring Boot
